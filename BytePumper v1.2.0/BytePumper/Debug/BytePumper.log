@@ -1,0 +1,4 @@
+﻿  Source.cpp
+Source.obj : warning LNK4075: se omite '/EDITANDCONTINUE' debido a la especificación '/OPT:LBR'
+  BytePumper.vcxproj -> C:\Users\Álvaro\Desktop\C++\BytePumper v1.2.0\Debug\BytePumper.exe
+  BytePumper.vcxproj -> C:\Users\Álvaro\Desktop\C++\BytePumper v1.2.0\Debug\BytePumper.pdb (Full PDB)
